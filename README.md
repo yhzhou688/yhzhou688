@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yh-zhou
 - 👀 I’m interested in playing basketball, cycling and so on.
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning...
 - 💞️ I’m pursuing my Master Degree.
 - 📫 How to reach me, you can send message to my email yuhaozhou2022@163.com.
 
