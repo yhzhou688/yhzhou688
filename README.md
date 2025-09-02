@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yh-zhou [(https://yhzhou688.github.io/)]
+- 👋 Hi, I’m @yh-zhou (https://yhzhou688.github.io/)
 - 👀 I’m interested in playing basketball, cycling and so on.
 - 🌱 I’m currently learning...
 - 💞️ I’m pursuing my Master Degree.
